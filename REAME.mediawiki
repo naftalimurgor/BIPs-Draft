@@ -12,5 +12,5 @@ We are fairly liberal with approving BIPs, and try not to be too involved in dec
 
 Having a BIP here does not make it a formally accepted standard until its status becomes Final or Active. Initial Improvement proposal once accepted becomes draft and final/active once accepted or made final.
 
-## Past Bitcoin Improvement Proposals
+
 
