@@ -1,0 +1,16 @@
+# Bitgesell Improvmement Proposals (BIP)
+
+This repository contains Improvemnt proposals mostly in draft state) as proposed on Bitcoin and are relevant for Bitgesell
+
+<img src="Icon.png" style="height: 60px;"/>
+
+This is a sync of Bitcoin Improvement Proposals(BIP) for Bitgesell that forms the Improvement Proposals Bitgesell is built on top of.
+
+People wishing to submit BIPs, first should propose their idea or document at [https://github.com/naftalimurgor/Bitgesell-Improvemnent-Proposals/issues].
+
+We are fairly liberal with approving BIPs, and try not to be too involved in decision making on behalf of the community. The exception is in very rare cases of dispute resolution when a decision is contentious and cannot be agreed upon. In those cases, the conservative option will always be preferred.
+
+Having a BIP here does not make it a formally accepted standard until its status becomes Final or Active. Initial Improvement proposal once accepted becomes draft and final/active once accepted or made final.
+
+
+
