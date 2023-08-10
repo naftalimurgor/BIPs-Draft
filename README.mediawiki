@@ -12,5 +12,229 @@ We are fairly liberal with approving BIPs, and try not to be too involved in dec
 
 Having a BIP here does not make it a formally accepted standard until its status becomes Final or Active. Initial Improvement proposal once accepted becomes draft and final/active once accepted or made final.
 
+{| class="wikitable sortable" style="width: auto; text-align: center; font-size: smaller; table-layout: fixed;"
+!Number
+!Layer
+!Title
+!Owner
+!Type
+!Status
+|-
+| [[bip-0001.mediawiki|1]]
+|
+| Version bits with lock-in by height
+| Shaolin Fry, Luke Dashjr
+| Informational
+| Draft
+|-
+| [[bip-0002.mediawiki|2]]
+| Applications
+| Passphrase-protected private key
+| Mike Caldwell, Aaron Voisine
+| Standard
+| Draft
+|-
+| [[bip-0003.mediawiki|3]]
+| Applications
+| Reusable Payment Codes for Hierarchical Deterministic Wallets
+| Justus Ranvier
+| Informational
+| Draft
+|-
+| [[bip-0004.mediawiki|4]]
+| Consensus (hard fork)
+| Durable, Low Energy Bitcoin PoW
+| Michael Dubrovsky, Bogdan Penkovsky
+| Standard
+| Draft
+<!-- 50 series reserved for a group of post-mortems -->
+|-
+| [[bip-0005.mediawiki|5]]
+| Peer Services
+| Fixed Length "version" Message (Relay-Transactions Field)
+| Amir Taaki
+| Standard
+| Draft
+|-
+| [[bip-0006.mediawiki|6]]
+| Applications
+| A Simple Payjoin Proposal
+| Nicolas Dorier
+| Standard
+| Draft
+|-
+| [[bip-0007.mediawiki|7]]
+| Applications
+| Deterministic Entropy From BIP32 Keychains
+| Ethan Kosakovsky
+| Informational
+| Draft
+|-
+| [[bip-0008.mediawiki|8]]
+| Applications
+| Key Derivation for Single Key P2TR Outputs
+| Andrew Chow
+| Standard
+| Draft
+|-
+| [[bip-0009.mediawiki|9]]
+| Applications
+| codex32: Checksummed SSSS-aware BIP32 seeds
+| Leon Olsson Curr, Pearlwort Sneed
+| Informational
+| Draft
+|-
+| [[bip-0010.mediawiki|10]]
+| Consensus (soft fork)
+| Fast Merkle Trees
+| Mark Friedenbach, Kalle Alm, BtcDrak
+| Standard
+| Draft
+|--
+| [[bip-0011.mediawiki|11]]
+| Consensus (soft fork)
+| MERKLEBRANCHVERIFY
+| Mark Friedenbach, Kalle Alm, BtcDrak
+| Standard
+| Draft
+|-
+| [[bip-0012.mediawiki|12]]
+| Consensus (soft fork)
+| Tail Call Execution Semantics
+| Mark Friedenbach, Kalle Alm, BtcDrak
+| Standard
+| Draft
+|-
+| [[bip-0013.mediawiki|13]]
+| Consensus (soft fork)
+| SIGHASH_ANYPREVOUT for Taproot Scripts
+| Christian Decker, Anthony Towns
+| Standard
+| Draft
+|-
+| [[bip-0014.mediawiki|14]]
+| Consensus (soft fork)
+| CHECKTEMPLATEVERIFY
+| Jeremy Rubin
+| Standard
+| Draft
+|-
+| [[bip-0015.mediawiki|15]]
+| Applications
+| URI scheme for Blockchain references / exploration
+| Marco Pontello
+| Standard
+| Draft
+|-
+| [[bip-0016.mediawiki|16]]
+|
+| Best Practices for Heterogeneous Input Script Transactions
+| Kristov Atlas
+| Informational
+| Draft
+|-
+| [[bip-0017.mediawiki|17]]
+| Applications
+| Simple Proof-of-Reserves Transactions
+| Steven Roose
+| Standard
+| Draft
+|-
+| [[bip-0018.mediawiki|18]]
+| Peer Services
+| feefilter message
+| Alex Morcos
+| Standard
+| Draft
+|-
+| [[bip-0019.mediawiki|19]]
+| Applications
+| Bech32 Encoded Tx Position References
+| Велеслав, Jonas Schnelli, Daniel Pape
+| Informational
+| Draft
+|-
+| [[bip-0020.mediawiki|20]]
+| Peer Services
+| Peer Authentication
+| Jonas Schnelli
+| Standard
+| Draft
+|-
+| [[bip-0021.mediawiki|21]]
+| Peer Services
+| addrv2 message
+| Wladimir J. van der Laan
+| Standard
+| Draft
+|-
+| [[bip-0022.mediawiki|22]]
+| Peer Services
+| Client Side Block Filtering
+| Olaoluwa Osuntokun, Alex Akselrod, Jim Posen
+| Standard
+| Draft
+|-
+| [[bip-0023.mediawiki|23]]
+| Peer Services
+| Compact Block Filters for Light Clients
+| Olaoluwa Osuntokun, Alex Akselrod
+| Standard
+| Draft
+|-
+| [[bip-0024.mediawiki|24]]
+| Peer Services
+| NODE_NETWORK_LIMITED service bit
+| Jonas Schnelli
+| Standard
+| Draft
+|-
+| [[bip-0025.mediawiki|25]]
+|
+| Bits Denomination
+| Jimmy Song
+| Informational
+| Draft
+|-
+| [[bip-0026.mediawiki|26]]
+| Applications
+| Version Extended WIF
+| Karl-Johan Alm
+| Standard
+| Draft
+|-
+| [[bip-0027.mediawiki|27]]
+|
+| Name for payment recipient identifiers
+| Emil Engler, Luke Dashjr
+| Informational
+| Draft
+|-
+| [[bip-0028.mediawiki|28]]
+| Applications
+| Hashed Time-Locked Collateral Contract
+| Matthew Black, Tony Cai
+| Standard
+| Draft
+|-
+| [[bip-0029.mediawiki|29]]
+| Applications
+| Hashed Time-Locked Contract transactions
+| Sean Bowe, Daira Hopwood
+| Standard
+| Draft
+|-
+| [[bip-0030.mediawiki|30]]
+| Consensus (soft fork)
+| Hashrate Escrows (Consensus layer)
+| Paul Sztorc, CryptAxe
+| Standard
+| Draft
+|-
+|}
+
+<!-- IMPORTANT!  See the instructions at the top of this page, do NOT JUST add BIPs here! -->
+
+
 
 
